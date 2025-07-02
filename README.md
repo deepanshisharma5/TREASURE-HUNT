@@ -1,6 +1,6 @@
 # TREASURE-HUNT
 
-🏴‍☠️ Project-8: Treasure Hunt Game in Python
+🏴‍☠️ Project: Treasure Hunt Game in Python
 Welcome to the Treasure Hunt Game, a fun and interactive text-based adventure built using Python! This simple project takes players on a thrilling journey across mysterious paths, dangerous rivers, and puzzling doors — all in search of hidden treasure. 🌴🪙
 
 🌟 Game Overview

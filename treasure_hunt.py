@@ -1,4 +1,4 @@
-#project 8
+#project 
 #TREASURE HUNT GAME
 
 print('''  
